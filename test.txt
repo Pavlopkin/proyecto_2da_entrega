@@ -1,0 +1,32 @@
+[
+	{
+		"title": "Puffy Shirt",
+		"thumbnail": "https://pavlopkin.github.io/Art-Vandelay/assets/puffy.png",
+		"price": 60000,
+		"id": 2
+	},
+	{
+		"title": "Bolígrafo anti gravedad",
+		"thumbnail": "https://pavlopkin.github.io/Art-Vandelay/assets/boligrafo.png",
+		"price": 1500,
+		"id": 3
+	},
+	{
+		"title": "Jimmy's Shoes",
+		"thumbnail": "https://pavlopkin.github.io/Art-Vandelay/assets/shoes.png",
+		"price": 13000,
+		"id": 4
+	},
+	{
+		"title": "Fusilli Jerry",
+		"thumbnail": "https://pavlopkin.github.io/Art-Vandelay/assets/fusilli.png",
+		"price": 1200,
+		"id": 5
+	},
+	{
+		"title": "The coffee table booky",
+		"thumbnail": "https://pavlopkin.github.io/Art-Vandelay/assets/bookof.png",
+		"price": 3500,
+		"id": 6
+	}
+]
